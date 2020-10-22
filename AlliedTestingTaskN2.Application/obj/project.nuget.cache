@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aF0F8if1hZ/LpOmSe7LoWDtZ5TdLvPRgZCYtL/W4lL3Np/YoT0NJTbh1y/Q3od427qG4okPNZjCnQChl0UppzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elias\\RiderProjects\\AlliedTestingTaskN2\\AlliedTestingTaskN2.Application\\AlliedTestingTaskN2.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elias\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

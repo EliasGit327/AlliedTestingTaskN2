@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OJO+tQwCQ+oefYqgaQEGQnx72Ia9lNVCu0sgJPCuiUqoUz1pFOgDsw/OLHKcZaJ9UJdR+YwDXy0ao2tFJvv2mA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elias\\RiderProjects\\AlliedTestingTaskN2\\AlliedTestingTaskN2.Domain\\AlliedTestingTaskN2.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elias\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Elias\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Elias\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\Elias\RiderProjects\AlliedTestingTaskN2\AlliedTestingTaskN2.Application\bin\Debug\netcoreapp3.1\AlliedTestingTaskN2.Application.deps.json
+C:\Users\Elias\RiderProjects\AlliedTestingTaskN2\AlliedTestingTaskN2.Application\bin\Debug\netcoreapp3.1\AlliedTestingTaskN2.Application.dll
+C:\Users\Elias\RiderProjects\AlliedTestingTaskN2\AlliedTestingTaskN2.Application\bin\Debug\netcoreapp3.1\AlliedTestingTaskN2.Application.pdb
+C:\Users\Elias\RiderProjects\AlliedTestingTaskN2\AlliedTestingTaskN2.Application\obj\Debug\netcoreapp3.1\AlliedTestingTaskN2.Application.csprojAssemblyReference.cache
+C:\Users\Elias\RiderProjects\AlliedTestingTaskN2\AlliedTestingTaskN2.Application\obj\Debug\netcoreapp3.1\AlliedTestingTaskN2.Application.AssemblyInfoInputs.cache
+C:\Users\Elias\RiderProjects\AlliedTestingTaskN2\AlliedTestingTaskN2.Application\obj\Debug\netcoreapp3.1\AlliedTestingTaskN2.Application.AssemblyInfo.cs
+C:\Users\Elias\RiderProjects\AlliedTestingTaskN2\AlliedTestingTaskN2.Application\obj\Debug\netcoreapp3.1\AlliedTestingTaskN2.Application.csproj.CoreCompileInputs.cache
+C:\Users\Elias\RiderProjects\AlliedTestingTaskN2\AlliedTestingTaskN2.Application\obj\Debug\netcoreapp3.1\AlliedTestingTaskN2.Application.dll
+C:\Users\Elias\RiderProjects\AlliedTestingTaskN2\AlliedTestingTaskN2.Application\obj\Debug\netcoreapp3.1\AlliedTestingTaskN2.Application.pdb
